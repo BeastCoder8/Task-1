@@ -27,6 +27,3 @@ A modern, responsive, and animated landing page built using HTML and CSS for a w
 👉 [View Live on GitHub Pages](https://BeastCoder8.github.io/elevate-labs-landing-page/)
 
 
-
-## 📂 Project Structure
-
